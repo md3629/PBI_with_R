@@ -1,2 +1,2 @@
 # PBI_with_R
-This is a showcase for extending Power BI with R based on https://learn.microsoft.com/en-us/fabric/data-science/r-avocado. Relevant libraries should be installed on you machine
+This is a showcase for extending Power BI with R based on https://learn.microsoft.com/en-us/fabric/data-science/r-avocado and https://amzn.eu/d/4zaiWXZ. Relevant libraries should be installed on you machine
